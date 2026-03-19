@@ -7,7 +7,7 @@ Support form and auto select form
 ![1000123980](https://github.com/user-attachments/assets/4d80437e-35a5-4bf3-8872-fc42d52174a3)
 ![1000123979](https://github.com/user-attachments/assets/e66b37c5-2892-45ae-92c5-eeeaee10d84d)
 
-Also support payload you can load from file or add it manual by hand and also rename load payload you can use payload with header or cookie or form input or request body
+Also support payload you can load from file or add it manual by hand and also you can rename loaded payload you can use payload with header or cookie or form input or request body
 ![1000123986](https://github.com/user-attachments/assets/957bc29a-097f-4b88-b330-7f3d55eb0e06)
 ![1000123985](https://github.com/user-attachments/assets/7316ac10-b7db-493b-a423-f8b9a1a70fbc)
 ![1000123984](https://github.com/user-attachments/assets/76636390-a1f2-4a89-9f1b-1c51b346849b)
