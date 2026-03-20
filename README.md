@@ -1,4 +1,7 @@
-Using W-Tool in android you can manual manipulation and resending of individual HTTP requests to test server responses
+Using W-Tool in android you can manual manipulation and resending of individual HTTP requests to test server responses 
+
+You can use it as  bug bounty tool and that is the purpose i made
+
 ![1000123978](https://github.com/user-attachments/assets/85529ca4-26f1-4bf8-ab62-74653622f868)
 ![1000123977](https://github.com/user-attachments/assets/3640f7c6-17ee-4c98-ad35-d55f50ef72e2)
 
